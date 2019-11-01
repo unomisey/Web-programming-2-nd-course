@@ -1,0 +1,11 @@
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\bin\Debug\netcoreapp3.0\ArrSort.exe
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\bin\Debug\netcoreapp3.0\ArrSort.deps.json
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\bin\Debug\netcoreapp3.0\ArrSort.runtimeconfig.json
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\bin\Debug\netcoreapp3.0\ArrSort.runtimeconfig.dev.json
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\bin\Debug\netcoreapp3.0\ArrSort.dll
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\bin\Debug\netcoreapp3.0\ArrSort.pdb
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\obj\Debug\netcoreapp3.0\ArrSort.csprojAssemblyReference.cache
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\obj\Debug\netcoreapp3.0\ArrSort.AssemblyInfoInputs.cache
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\obj\Debug\netcoreapp3.0\ArrSort.AssemblyInfo.cs
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\obj\Debug\netcoreapp3.0\ArrSort.dll
+C:\Users\dell\RiderProjects\ArrSort\ArrSort\obj\Debug\netcoreapp3.0\ArrSort.pdb

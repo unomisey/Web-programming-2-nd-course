@@ -1,0 +1,11 @@
+C:\Users\dell\RiderProjects\Formulas\Formulas\bin\Debug\netcoreapp3.0\Formulas.exe
+C:\Users\dell\RiderProjects\Formulas\Formulas\bin\Debug\netcoreapp3.0\Formulas.deps.json
+C:\Users\dell\RiderProjects\Formulas\Formulas\bin\Debug\netcoreapp3.0\Formulas.runtimeconfig.json
+C:\Users\dell\RiderProjects\Formulas\Formulas\bin\Debug\netcoreapp3.0\Formulas.runtimeconfig.dev.json
+C:\Users\dell\RiderProjects\Formulas\Formulas\bin\Debug\netcoreapp3.0\Formulas.dll
+C:\Users\dell\RiderProjects\Formulas\Formulas\bin\Debug\netcoreapp3.0\Formulas.pdb
+C:\Users\dell\RiderProjects\Formulas\Formulas\obj\Debug\netcoreapp3.0\Formulas.csprojAssemblyReference.cache
+C:\Users\dell\RiderProjects\Formulas\Formulas\obj\Debug\netcoreapp3.0\Formulas.AssemblyInfoInputs.cache
+C:\Users\dell\RiderProjects\Formulas\Formulas\obj\Debug\netcoreapp3.0\Formulas.AssemblyInfo.cs
+C:\Users\dell\RiderProjects\Formulas\Formulas\obj\Debug\netcoreapp3.0\Formulas.dll
+C:\Users\dell\RiderProjects\Formulas\Formulas\obj\Debug\netcoreapp3.0\Formulas.pdb

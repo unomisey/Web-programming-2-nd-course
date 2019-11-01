@@ -1,0 +1,11 @@
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\bin\Debug\netcoreapp3.0\ArrGen.exe
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\bin\Debug\netcoreapp3.0\ArrGen.deps.json
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\bin\Debug\netcoreapp3.0\ArrGen.runtimeconfig.json
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\bin\Debug\netcoreapp3.0\ArrGen.runtimeconfig.dev.json
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\bin\Debug\netcoreapp3.0\ArrGen.dll
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\bin\Debug\netcoreapp3.0\ArrGen.pdb
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\obj\Debug\netcoreapp3.0\ArrGen.csprojAssemblyReference.cache
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\obj\Debug\netcoreapp3.0\ArrGen.AssemblyInfoInputs.cache
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\obj\Debug\netcoreapp3.0\ArrGen.AssemblyInfo.cs
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\obj\Debug\netcoreapp3.0\ArrGen.dll
+C:\Users\dell\RiderProjects\ArrGen\ArrGen\obj\Debug\netcoreapp3.0\ArrGen.pdb
